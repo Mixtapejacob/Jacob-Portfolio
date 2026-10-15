@@ -8,7 +8,7 @@ import {
   Send,
 } from "lucide-react";
 
-const CONTACT_EMAIL = "your-email@example.com";
+const CONTACT_EMAIL = "Atakoraj@ymail.com";
 
 const githubUrl =
   "https://github.com/Mixtapejacob/MixtapeJacob";

@@ -9,7 +9,9 @@ import {
   Code2,
 } from "lucide-react";
 
-const resumeUrl = "/Jacob_Atakora_Resume.pdf";
+
+const resumeUrl = "/Jacob_Atakora_React_Nextjs_Resume_With_Project_Links.pdf";
+
 
 export default function Resume() {
   return (
